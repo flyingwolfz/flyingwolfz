@@ -1,21 +1,23 @@
 zcl, PHD candidate in BUPT. 
 
-my interests are 3D display, computer generated hologram, ray tracing rendering, neural network.
+my interests are 3D display, computer generated hologram, their combination with ray tracing rendering and neural network.
 
 my works include: real-time 3D display, such as:
 
-
 <div align=center>
 
-![image](https://github.com/flyingwolfz/flyingwolfz/blob/main/holo.gif)  ![image](https://github.com/flyingwolfz/flyingwolfz/blob/main/lens.gif) ![image](https://github.com/flyingwolfz/flyingwolfz/blob/main/lightfield.gif) 
+<img src="https://github.com/flyingwolfz/flyingwolfz/blob/main/holo.gif" width="250px">
+<img src="https://github.com/flyingwolfz/flyingwolfz/blob/main/lens.gif" width="250px">
+<img src="https://github.com/flyingwolfz/flyingwolfz/blob/main/lightfield.gif" width="250px">
 
 </div>
 
 <pre>
 
-       holographic display                       autostereoscopic 3D display              light field display
+                   holographic display             autostereoscopic 3D display           light field display
 
 </pre>
+
 
 
 <!---
