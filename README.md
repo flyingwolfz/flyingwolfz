@@ -14,7 +14,7 @@ my works focus on real-time 3D display, such as:
 
 <pre>
 
-                   holographic display             autostereoscopic 3D display           light field display
+                 holographic display                  autostereoscopic  display         light field display
 
 </pre>
 
