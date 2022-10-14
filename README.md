@@ -2,7 +2,7 @@ zcl, PHD candidate in BUPT.
 
 my interests are 3D display, computer generated hologram, their combination with ray tracing rendering and neural network.
 
-my works include: real-time 3D display, such as:
+my works focus on real-time 3D display, such as:
 
 <div align=center>
 
